@@ -7,6 +7,6 @@ const person: {
 };
 
 let favoriteActivities: string[];
-favoriteActivities = 'Sports';
+favoriteActivities = ['Sports'];
 
-console.log(person.nickname);
+console.log(person.name);

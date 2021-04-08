@@ -13,3 +13,5 @@ const combineAges = combine(30, 26);
 console.log(combineAges);
 
 const combineNames = combine('Max', 'Anna');
+
+console.log(combineNames);

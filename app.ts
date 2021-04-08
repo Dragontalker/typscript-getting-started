@@ -1,4 +1,4 @@
-const add = (n1: number, n2: number) => {
+const add = (n1: number, n2: number, showResult: boolean) => {
     return n1 + n2;
 };
 

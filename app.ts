@@ -6,7 +6,7 @@ const person: {
     age: 30
 };
 
-let favoriteActivities: string[];
-favoriteActivities = ['Sports', '1'];
+let favoriteActivities: any[];
+favoriteActivities = ['Sports', 1];
 
 console.log(person.name);

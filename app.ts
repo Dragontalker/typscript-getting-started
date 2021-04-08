@@ -6,4 +6,7 @@ const person: {
     age: 30
 };
 
+let favoriteActivities: string[];
+favoriteActivities = 'Sports';
+
 console.log(person.nickname);

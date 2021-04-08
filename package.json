@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Dragontalker/typscript-getting-started/issues"
   },
-  "homepage": "https://github.com/Dragontalker/typscript-getting-started#readme"
+  "homepage": "https://github.com/Dragontalker/typscript-getting-started#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
